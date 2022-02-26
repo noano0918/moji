@@ -1,7 +1,7 @@
 
 clear
 echo ""
-echo -e "\e[1;92m Long live my country iran "
+echo -e "\e[1;90m Long\e[1;91m live\e[1;92m my\e[1;93m country\e[1;94m iran\e[1;95m mojiki\e[1;96m klonzj\e[1;97m kkksjsnsjj\e[1;98m jksjj\e[1;99m mkjko\e[2;01m"
 echo ""
 echo -e "\e[1;91m [+] naem : \e[1;92mmojtaba moradi"
 echo -e "\e[1;91m [+] id rubika : \e[1;92m@vaseteh_moji\e[1;97m"
