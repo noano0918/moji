@@ -7,8 +7,8 @@ echo -e " ........................ \e[1;93m"
 echo -e "   ....................   \e[1;97m"
 echo -e "............       \e[1;97m"
 echo ""
-echo -e "\e[1;91m [+] telegram : \e[1;92mMR_x_moji"
-echo -e "\e[1;91m [+] Github: \e[1;92mmoji-MRX\e[1;97m"
+echo -e "\e[1;91m [+] naem : \e[1;92mmojtaba moradi"
+echo -e "\e[1;91m [+] id rubika : \e[1;92m@vaseteh_moji\e[1;97m"
 echo ""
 read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
 
