@@ -14,9 +14,8 @@ echo -e "                 \ \'      "
 echo -e "                  \ \     "
 echo -e "                   '-'    \e[1;97m "
 echo ""
-echo -e "\e[1;91m [+] Telegram: \e[1;92mMR_x_Hacke"
-echo -e "\e[1;91m [+] Github: \e[1;92mHOSEIN-MRX\e[1;97m"
-echo ""
+echo -e "\e[1;91m [+] naem : \e[1;92mmojtaba moradi"
+echo -e "\e[1;91m [+] id rubika : \e[1;92m@vaseteh_moji\e[1;97m"
 read -p " Does you want to Uninstall Parrot Shell?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
